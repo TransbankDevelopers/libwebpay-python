@@ -16,14 +16,14 @@ Esta librería fue desarrolla para trabajar sobre un sistema Linux con ambiente 
 
 ## Ayuda para instalación
 
-### Instalar Django
+### Instalar Django
 
 ```
 apt-get update
 sudo apt-get install python-django
 ```
 
-### Instalar Librerías
+### Instalar Librerías
 
 En Debian/Ubuntu:
 
