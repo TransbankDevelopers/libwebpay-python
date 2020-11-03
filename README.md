@@ -1,4 +1,4 @@
-
+# Este repositorio está descontinuado y no se recomienda su uso. 
    * [Descripción](#descripción)
    * [Requisitos](#requisitos)
       * [Ayuda para instalación](#ayuda-para-instalación)
